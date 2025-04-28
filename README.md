@@ -1,9 +1,9 @@
 Sales Forecasting for Retail Business
-📋 Project Overview
+Project Overview
 This project focuses on building a sales forecasting model using historical retail sales data.
 The goal is to predict future sales trends and visualize forecast accuracy, trend components, and seasonality patterns.
 
-🛠 Tools and Technologies
+Tools and Technologies
 Python
 
 Prophet
@@ -14,7 +14,7 @@ Pandas
 
 Matplotlib
 
-🧠 Skills Gained
+Skills Gained
 Time Series Forecasting
 
 Regression Analysis
@@ -23,10 +23,10 @@ Trend and Seasonality Analysis
 
 Forecast Accuracy Evaluation (MAE, RMSE)
 
-📂 Dataset
+Dataset
 Retail sales data (daily, weekly, or monthly sales numbers)
 
-📈 Project Workflow
+Project Workflow
 Data Preprocessing: Load and clean the sales dataset.
 
 Model Building: Train a forecasting model using Prophet.
